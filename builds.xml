@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="builds.xsl"?>
+<builds>
+	<build name="firstBuild" coverage1="25.6" coverage2="34.1" maxcomplexity="67" mincomplexity="1" />
+	<build name="secondBuild" coverage1="75.9" coverage2="33.1" maxcomplexity="127" mincomplexity="3" />
+</builds>
